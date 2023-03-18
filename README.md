@@ -1,5 +1,7 @@
 # GlobalTaskTaskManagementUi
 
+![arquitetura](https://github.com/p10solutions/GlobalTask.TaskManagement/blob/main/tasks.drawio%20(3).png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
